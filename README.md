@@ -8,7 +8,7 @@ PROJETO DE DESENVOLVIMENTO DE UM SISTEMA DE PRESTAÇÃO DE SERVIÇOS AO CIDADÃO
 
 Permitir ao cidadão participar da Organização e Vida Pública do seu município, automatizando e facilitado o acesso aos serviços públicos oferecidos.
 
-## Requisitos
+## Requisitos Funcionais e Não Funcionais do Sistemas
 
 1. Deve ser permitido ao cidadão obter informações sobre os serviços públicos da cidade
 previamente cadastrados no sistema.
