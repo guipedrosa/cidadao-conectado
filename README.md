@@ -8,6 +8,12 @@ PROJETO DE DESENVOLVIMENTO DE UM SISTEMA DE PRESTAÇÃO DE SERVIÇOS AO CIDADÃO
 
 Permitir ao cidadão participar da Organização e Vida Pública do seu município, automatizando e facilitado o acesso aos serviços públicos oferecidos.
 
+## Protótipo navegável do sistema
+
+Caso 1 - Deve ser permitido ao cidadão obter informações sobre os serviços públicos da cidade previamente cadastrados no sistema. - https://youtu.be/8uWixjAeZ7Y
+Caso 2 - O sistema deve permitir que a central de atendimento telefônico registre as demandas recebidas da população. - https://youtu.be/d7W-Mol5jos 
+Caso 3 - O sistema deve permitir o envio das demandas às equipes de campo para atendimento. As demandas são enviadas pelo responsável pelo serviço no órgão que a recebeu. - https://youtu.be/OxxHMZk2t44
+
 ## Requisitos Funcionais e Não Funcionais do Sistemas
 
 1. Deve ser permitido ao cidadão obter informações sobre os serviços públicos da cidade
